@@ -104,6 +104,7 @@ Built a fully functional SIEM lab using Splunk Enterprise. Configured Windows 10
 
 ### Failed Login Statistics  
 ![Stats](./screenshots/03-failed-logins-stats.png)
+
 ---
 
 ### 🔄 Project 2 — Phishing Attack & Incident Response *(Coming Soon)*
