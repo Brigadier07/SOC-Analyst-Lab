@@ -91,7 +91,7 @@ SOC-Analyst-Lab/
 ## 🔬 Projects Completed
 
 ### ✅ Project 1 — SIEM Log Monitoring & Threat Detection
-> **Status: Complete | Resume Value: ⭐⭐⭐⭐⭐ (10/10)**
+> **Status: Complete
 
 Built a fully functional SIEM lab using Splunk Enterprise. Configured Windows 10 VM with Sysmon for advanced telemetry, set up Universal Forwarder to ship logs to Splunk, and created detection rules for real attack techniques.
 
