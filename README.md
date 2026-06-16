@@ -97,6 +97,13 @@ Built a fully functional SIEM lab using Splunk Enterprise. Configured Windows 10
 
 📂 [View Detection Queries](./detection-queries/) | 📄 [View Incident Reports](./reports/)
 
+## 📸 Screenshots
+
+### Brute Force Detection
+![Brute Force](./screenshots/02-brute-force-events.png)
+
+### Failed Login Statistics  
+![Stats](./screenshots/03-failed-logins-stats.png)
 ---
 
 ### 🔄 Project 2 — Phishing Attack & Incident Response *(Coming Soon)*
